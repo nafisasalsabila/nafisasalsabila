@@ -1,5 +1,5 @@
 👋 Hi there
-I’m Nafisan Nauroti Salsa Bila, everyone calls me by Salsa
+I’m Nafisan Nauroti Salsa Bila. Everyone calls me by Salsa
 - student at the University of Muhammadiyah Semarang, majoring Statistics.
 - 1s alumnus of Independent Study in Microsoft with learning track Data and Artificial Intelligence
 
